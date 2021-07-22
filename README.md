@@ -4,9 +4,6 @@ Materiales del Webinar del 25-May-2021
 
 Puedes descargar la presentación haciendo clic derecho y eligiendo la opción "Descargar Como.." en este [ENLACE](docs/Recomendacion_Productos.pdf)
 
-Y desde aquí puedes acceder a la [grabación](https://youtu.be/G4azMRVG4K4) en Youtube:
-
-[![IMAGEN](docs/RecomProd.png)](https://youtu.be/G4azMRVG4K4)
 
 
 ## Referencias
